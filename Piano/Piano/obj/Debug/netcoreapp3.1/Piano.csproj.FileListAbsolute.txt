@@ -1,0 +1,13 @@
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Kelompok Buat Piano\Piano\Piano\bin\Debug\netcoreapp3.1\Piano.exe
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Kelompok Buat Piano\Piano\Piano\bin\Debug\netcoreapp3.1\Piano.deps.json
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Kelompok Buat Piano\Piano\Piano\bin\Debug\netcoreapp3.1\Piano.runtimeconfig.json
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Kelompok Buat Piano\Piano\Piano\bin\Debug\netcoreapp3.1\Piano.runtimeconfig.dev.json
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Kelompok Buat Piano\Piano\Piano\bin\Debug\netcoreapp3.1\Piano.dll
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Kelompok Buat Piano\Piano\Piano\bin\Debug\netcoreapp3.1\Piano.pdb
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Kelompok Buat Piano\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.csprojAssemblyReference.cache
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Kelompok Buat Piano\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.AssemblyInfoInputs.cache
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Kelompok Buat Piano\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.AssemblyInfo.cs
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Kelompok Buat Piano\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.csproj.CoreCompileInputs.cache
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Kelompok Buat Piano\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.dll
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Kelompok Buat Piano\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.pdb
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Kelompok Buat Piano\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.genruntimeconfig.cache
