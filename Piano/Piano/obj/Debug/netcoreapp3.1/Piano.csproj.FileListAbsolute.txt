@@ -11,3 +11,5 @@ D:\Dokumen Kuliah\Semester 1\Visual (AP)\Kelompok Buat Piano\Piano\Piano\obj\Deb
 D:\Dokumen Kuliah\Semester 1\Visual (AP)\Kelompok Buat Piano\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.dll
 D:\Dokumen Kuliah\Semester 1\Visual (AP)\Kelompok Buat Piano\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.pdb
 D:\Dokumen Kuliah\Semester 1\Visual (AP)\Kelompok Buat Piano\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.genruntimeconfig.cache
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Kelompok Buat Piano\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.Resource1.resources
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Kelompok Buat Piano\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.csproj.GenerateResource.cache
