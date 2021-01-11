@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aU3Ock9dO+aBpHvOFoUe8GaqIxD0ub3FK2nkFSG7pQYadIPSXl+snpAtBR3bzWiyHqizF5apg4XGWxsZlKHSsw==",
+  "dgSpecHash": "pHjqQHPJ4xD/+Su/+aKt5s5pEnu2tzki3vlYIkXrVKDSP4CM1imbhqCzJIZi9WzrgcxYErahdQ5Gf8TKgqHKLg==",
   "success": true,
-  "projectFilePath": "D:\\Dokumen Kuliah\\Semester 1\\Visual (AP)\\Kelompok Buat Piano\\Piano\\Piano\\Piano.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\bryan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\bryan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Tugas\\Alpro\\Project Saa\\Piano\\Piano\\Piano.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
