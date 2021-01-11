@@ -1,0 +1,7 @@
+C:\Users\bryan\Source\Repos\Bryant35\Buat_Piano\piano 2.0\piano 2.0\bin\Debug\piano 2.0.exe.config
+C:\Users\bryan\Source\Repos\Bryant35\Buat_Piano\piano 2.0\piano 2.0\bin\Debug\piano 2.0.exe
+C:\Users\bryan\Source\Repos\Bryant35\Buat_Piano\piano 2.0\piano 2.0\bin\Debug\piano 2.0.pdb
+C:\Users\bryan\Source\Repos\Bryant35\Buat_Piano\piano 2.0\piano 2.0\obj\Debug\piano 2.0.csprojAssemblyReference.cache
+C:\Users\bryan\Source\Repos\Bryant35\Buat_Piano\piano 2.0\piano 2.0\obj\Debug\piano 2.0.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Source\Repos\Bryant35\Buat_Piano\piano 2.0\piano 2.0\obj\Debug\piano 2.0.exe
+C:\Users\bryan\Source\Repos\Bryant35\Buat_Piano\piano 2.0\piano 2.0\obj\Debug\piano 2.0.pdb

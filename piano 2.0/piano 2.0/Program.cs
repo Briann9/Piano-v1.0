@@ -96,7 +96,6 @@ namespace Piano
                         tekana(o, p);
                         SoundPlayer dobawah = new SoundPlayer(@"D:\project saa jonathan'\suara\Do Bawah.wav");
                         dobawah.Play();
-                        break;
                     case ConsoleKey.S://d
                         Console.Clear();
                         tutshitam(o);
@@ -104,7 +103,6 @@ namespace Piano
                         tekans(o, p);
                         SoundPlayer re = new SoundPlayer(@"D:\project saa jonathan'\suara\Re Bawah.wav");
                         re.Play();
-                        break;
                     case ConsoleKey.D://e
                         Console.Clear();
                         tutshitam(o);
@@ -112,7 +110,6 @@ namespace Piano
                         tekand(o, p);
                         SoundPlayer mi = new SoundPlayer(@"D:\project saa jonathan'\suara\Mi Bawah.wav");
                         mi.Play();
-                        break;
                     case ConsoleKey.F://f
                         Console.Clear();
                         tutshitam(o);
@@ -120,7 +117,6 @@ namespace Piano
                         tekanf(o, p);
                         SoundPlayer fa = new SoundPlayer(@"D:\project saa jonathan'\suara\Fa Bawah.wav");
                         fa.Play();
-                        break;
                     case ConsoleKey.G://g
                         Console.Clear();
                         tutshitam(o);
@@ -128,7 +124,6 @@ namespace Piano
                         tekang(o, p);
                         SoundPlayer sol = new SoundPlayer(@"D:\project saa jonathan'\suara\Sol Bawah.wav");
                         sol.Play();
-                        break;
                     case ConsoleKey.H://a
                         Console.Clear();
                         tutshitam(o);
@@ -136,7 +131,6 @@ namespace Piano
                         tekanh(o, p);
                         SoundPlayer la = new SoundPlayer(@"D:\project saa jonathan'\suara\La Bawah.wav");
                         la.Play();
-                        break;
                     case ConsoleKey.J://b
                         Console.Clear();
                         tutshitam(o);
@@ -144,7 +138,6 @@ namespace Piano
                         tekanj(o, p);
                         SoundPlayer si = new SoundPlayer(@"D:\project saa jonathan'\suara\Si Bawah.wav");
                         si.Play();
-                        break;
                     case ConsoleKey.K://c'
                         Console.Clear();
                         tutshitam(o);
@@ -152,7 +145,6 @@ namespace Piano
                         tekank(o, p);
                         SoundPlayer doatas = new SoundPlayer(@"D:\project saa jonathan'\suara\Do Octave 2.wav");
                         doatas.Play();
-                        break;
                     case ConsoleKey.W://c#
                         Console.Clear();
                         tekanw(o);
@@ -160,7 +152,6 @@ namespace Piano
                         tutspalingbawah(o, p);
                         SoundPlayer atas1 = new SoundPlayer(@"D:\project saa jonathan'\suara\1.wav");
                         atas1.Play();
-                        break;
                     case ConsoleKey.E://d#
                         Console.Clear();
                         tekane(o);
@@ -168,7 +159,6 @@ namespace Piano
                         tutspalingbawah(o, p);
                         SoundPlayer atas2 = new SoundPlayer(@"D:\project saa jonathan'\suara\2.wav");
                         atas2.Play();
-                        break;
                     case ConsoleKey.T://f#
                         Console.Clear();
                         tekant(o);
@@ -176,7 +166,6 @@ namespace Piano
                         tutspalingbawah(o, p);
                         SoundPlayer atas3 = new SoundPlayer(@"D:\project saa jonathan'\suara\3.wav");
                         atas3.Play();
-                        break;
                     case ConsoleKey.Y://a#
                         Console.Clear();
                         tekany(o);
@@ -184,7 +173,6 @@ namespace Piano
                         tutspalingbawah(o, p);
                         SoundPlayer atas4 = new SoundPlayer(@"D:\project saa jonathan'\suara\4.wav");
                         atas4.Play();
-                        break;
                     case ConsoleKey.U://b#
                         Console.Clear();
                         tekanu(o);
@@ -192,10 +180,8 @@ namespace Piano
                         tutspalingbawah(o, p);
                         SoundPlayer atas5 = new SoundPlayer(@"D:\project saa jonathan'\suara\5.wav");
                         atas5.Play();
-                        break;
                     case ConsoleKey.Escape:
                         key = false;
-                        break;
                 }
                 /*Console.Clear();
                 tutshitam(o);
