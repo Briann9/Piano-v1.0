@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Piano"
+    "\\Piano",
+    "\\piano 2.0",
+    "\\piano 2.0\\piano 2.0",
+    "\\piano 2.0\\piano 2.0\\bin",
+    "\\piano 2.0\\piano 2.0\\obj",
+    "\\piano 2.0\\piano 2.0\\obj\\Debug",
+    "\\piano 2.0\\piano 2.0\\obj\\Release",
+    "\\piano 2.0\\piano 2.0\\Properties"
   ],
   "SelectedNode": "\\Piano\\Piano.sln",
   "PreviewInSolutionExplorer": false

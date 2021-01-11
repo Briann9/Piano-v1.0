@@ -24,3 +24,16 @@ D:\Tugas\Alpro\Project Saa\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.csproj.Core
 D:\Tugas\Alpro\Project Saa\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.dll
 D:\Tugas\Alpro\Project Saa\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.pdb
 D:\Tugas\Alpro\Project Saa\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.genruntimeconfig.cache
+C:\Users\bryan\Source\Repos\Bryant35\Buat_Piano\Piano\Piano\bin\Debug\netcoreapp3.1\Piano.exe
+C:\Users\bryan\Source\Repos\Bryant35\Buat_Piano\Piano\Piano\bin\Debug\netcoreapp3.1\Piano.deps.json
+C:\Users\bryan\Source\Repos\Bryant35\Buat_Piano\Piano\Piano\bin\Debug\netcoreapp3.1\Piano.runtimeconfig.json
+C:\Users\bryan\Source\Repos\Bryant35\Buat_Piano\Piano\Piano\bin\Debug\netcoreapp3.1\Piano.runtimeconfig.dev.json
+C:\Users\bryan\Source\Repos\Bryant35\Buat_Piano\Piano\Piano\bin\Debug\netcoreapp3.1\Piano.dll
+C:\Users\bryan\Source\Repos\Bryant35\Buat_Piano\Piano\Piano\bin\Debug\netcoreapp3.1\Piano.pdb
+C:\Users\bryan\Source\Repos\Bryant35\Buat_Piano\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.csprojAssemblyReference.cache
+C:\Users\bryan\Source\Repos\Bryant35\Buat_Piano\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.AssemblyInfoInputs.cache
+C:\Users\bryan\Source\Repos\Bryant35\Buat_Piano\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.AssemblyInfo.cs
+C:\Users\bryan\Source\Repos\Bryant35\Buat_Piano\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Source\Repos\Bryant35\Buat_Piano\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.dll
+C:\Users\bryan\Source\Repos\Bryant35\Buat_Piano\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.pdb
+C:\Users\bryan\Source\Repos\Bryant35\Buat_Piano\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.genruntimeconfig.cache

@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "pHjqQHPJ4xD/+Su/+aKt5s5pEnu2tzki3vlYIkXrVKDSP4CM1imbhqCzJIZi9WzrgcxYErahdQ5Gf8TKgqHKLg==",
+  "dgSpecHash": "sbxOVqNPfsHQPz1EXckx+CLRasJLNnAlq6wKTedVKV9nCKtU65sce9LdH1N24NOsJgpJ9+NbzcYTVUUdwKV89A==",
   "success": true,
-  "projectFilePath": "D:\\Tugas\\Alpro\\Project Saa\\Piano\\Piano\\Piano.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\bryan\\Source\\Repos\\Bryant35\\Buat_Piano\\Piano\\Piano\\Piano.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bryan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\bryan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }
