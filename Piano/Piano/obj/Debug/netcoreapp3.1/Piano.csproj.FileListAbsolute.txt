@@ -11,3 +11,16 @@ D:\Dokumen Kuliah\Semester 1\Visual (AP)\Kelompok Buat Piano\Piano\Piano\obj\Deb
 D:\Dokumen Kuliah\Semester 1\Visual (AP)\Kelompok Buat Piano\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.dll
 D:\Dokumen Kuliah\Semester 1\Visual (AP)\Kelompok Buat Piano\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.pdb
 D:\Dokumen Kuliah\Semester 1\Visual (AP)\Kelompok Buat Piano\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.genruntimeconfig.cache
+D:\Tugas\Alpro\Project Saa\Piano\Piano\bin\Debug\netcoreapp3.1\Piano.exe
+D:\Tugas\Alpro\Project Saa\Piano\Piano\bin\Debug\netcoreapp3.1\Piano.deps.json
+D:\Tugas\Alpro\Project Saa\Piano\Piano\bin\Debug\netcoreapp3.1\Piano.runtimeconfig.json
+D:\Tugas\Alpro\Project Saa\Piano\Piano\bin\Debug\netcoreapp3.1\Piano.runtimeconfig.dev.json
+D:\Tugas\Alpro\Project Saa\Piano\Piano\bin\Debug\netcoreapp3.1\Piano.dll
+D:\Tugas\Alpro\Project Saa\Piano\Piano\bin\Debug\netcoreapp3.1\Piano.pdb
+D:\Tugas\Alpro\Project Saa\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.csprojAssemblyReference.cache
+D:\Tugas\Alpro\Project Saa\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.AssemblyInfoInputs.cache
+D:\Tugas\Alpro\Project Saa\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.AssemblyInfo.cs
+D:\Tugas\Alpro\Project Saa\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.csproj.CoreCompileInputs.cache
+D:\Tugas\Alpro\Project Saa\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.dll
+D:\Tugas\Alpro\Project Saa\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.pdb
+D:\Tugas\Alpro\Project Saa\Piano\Piano\obj\Debug\netcoreapp3.1\Piano.genruntimeconfig.cache

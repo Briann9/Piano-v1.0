@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\bryan\\.nuget\\packages\\": {}
+    "C:\\Users\\asus\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dokumen Kuliah\\Semester 1\\Visual (AP)\\Kelompok Buat Piano\\Piano\\Piano\\Piano.csproj",
+      "projectUniqueName": "D:\\Tugas\\Alpro\\Project Saa\\Piano\\Piano\\Piano.csproj",
       "projectName": "Piano",
-      "projectPath": "D:\\Dokumen Kuliah\\Semester 1\\Visual (AP)\\Kelompok Buat Piano\\Piano\\Piano\\Piano.csproj",
-      "packagesPath": "C:\\Users\\bryan\\.nuget\\packages\\",
-      "outputPath": "D:\\Dokumen Kuliah\\Semester 1\\Visual (AP)\\Kelompok Buat Piano\\Piano\\Piano\\obj\\",
+      "projectPath": "D:\\Tugas\\Alpro\\Project Saa\\Piano\\Piano\\Piano.csproj",
+      "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
+      "outputPath": "D:\\Tugas\\Alpro\\Project Saa\\Piano\\Piano\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -55,22 +55,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.10, 3.1.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.10, 3.1.10]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
