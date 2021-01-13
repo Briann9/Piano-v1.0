@@ -94,7 +94,10 @@ namespace Piano
                         tutshitam(o);
                         tutsbawahhitam(o);
                         tekana(o, p);
-                        SoundPlayer dobawah = new SoundPlayer(@"D:\project saa jonathan'\suara\Do Bawah.wav");
+                        //SoundPlayer dobawah = new SoundPlayer(@"D:\project saa jonathan'\suara\Do Bawah.wav");
+                        //dobawah.Play();
+                        var dobawah = new System.Windows.Media.MediaPlayer();
+                        dobawah.Open(new System.Uri(@"D:\project saa jonathan'\suara\Do Bawah.wav"));
                         dobawah.Play();
                         break;
                     case ConsoleKey.S://d
@@ -102,7 +105,10 @@ namespace Piano
                         tutshitam(o);
                         tutsbawahhitam(o);
                         tekans(o, p);
-                        SoundPlayer re = new SoundPlayer(@"D:\project saa jonathan'\suara\Re Bawah.wav");
+                        //SoundPlayer re = new SoundPlayer(@"D:\project saa jonathan'\suara\Re Bawah.wav");
+                        //re.Play();
+                        var re = new System.Windows.Media.MediaPlayer();
+                        re.Open(new System.Uri(@"D:\project saa jonathan'\suara\Re Bawah.wav"));
                         re.Play();
                         break;
                     case ConsoleKey.D://e
@@ -110,7 +116,10 @@ namespace Piano
                         tutshitam(o);
                         tutsbawahhitam(o);
                         tekand(o, p);
-                        SoundPlayer mi = new SoundPlayer(@"D:\project saa jonathan'\suara\Mi Bawah.wav");
+                        //SoundPlayer mi = new SoundPlayer(@"D:\project saa jonathan'\suara\Mi Bawah.wav");
+                        //mi.Play();
+                        var mi = new System.Windows.Media.MediaPlayer();
+                        mi.Open(new System.Uri(@"D:\project saa jonathan'\suara\Mi Bawah.wav"));
                         mi.Play();
                         break;
                     case ConsoleKey.F://f
